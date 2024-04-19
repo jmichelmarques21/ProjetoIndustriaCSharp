@@ -1,0 +1,14 @@
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\bin\Debug\net7.0\ProjetoIndustria.exe
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\bin\Debug\net7.0\ProjetoIndustria.deps.json
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\bin\Debug\net7.0\ProjetoIndustria.runtimeconfig.json
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\bin\Debug\net7.0\ProjetoIndustria.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\bin\Debug\net7.0\ProjetoIndustria.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ProjetoIndustria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ProjetoIndustria.AssemblyInfoInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ProjetoIndustria.AssemblyInfo.cs
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ProjetoIndustria.csproj.CoreCompileInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ProjetoIndustria.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\refint\ProjetoIndustria.dll
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ProjetoIndustria.pdb
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ProjetoIndustria.genruntimeconfig.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\ref\ProjetoIndustria.dll

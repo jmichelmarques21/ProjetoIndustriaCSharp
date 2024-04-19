@@ -1,0 +1,4 @@
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\Industria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\Industria.AssemblyInfoInputs.cache
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\Industria.AssemblyInfo.cs
+C:\Users\jmich\OneDrive\Área de Trabalho\faculdade-3-semestre\c#Quinta\ProjetoIndustria\obj\Debug\net7.0\Industria.csproj.CoreCompileInputs.cache
